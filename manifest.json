@@ -1,0 +1,40 @@
+{
+  "name": "Residuos en tu negocio · Guía legal para comercios",
+  "short_name": "Residuos Legal",
+  "description": "Qué exige la ley colombiana a tiendas, restaurantes, talleres y droguerías en el manejo de residuos. Checklist de cumplimiento y normas vigentes 2026.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F7F4",
+  "theme_color": "#14181A",
+  "lang": "es-CO",
+  "dir": "ltr",
+  "categories": ["education", "business", "government"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23F7F7F4'/%3E%3Crect x='96' y='96' width='320' height='106' fill='%231F7A3D'/%3E%3Crect x='96' y='202' width='320' height='106' fill='%23FFFFFF' stroke='%23D9D8D1' stroke-width='2'/%3E%3Crect x='96' y='308' width='320' height='108' fill='%2314181A'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
